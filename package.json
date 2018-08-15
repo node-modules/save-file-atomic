@@ -1,5 +1,5 @@
 {
-  "name": "savefile",
+  "name": "save-file-atomic",
   "version": "1.0.0",
   "description": "Save anything to file atomic",
   "keywords": [
@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-modules/savefile.git"
+    "url": "git+https://github.com/node-modules/save-file-atomic.git"
   },
   "bugs": {
-    "url": "https://github.com/node-modules/savefile/issues"
+    "url": "https://github.com/node-modules/save-file-atomic/issues"
   },
-  "homepage": "https://github.com/node-modules/savefile#readme",
+  "homepage": "https://github.com/node-modules/save-file-atomic#readme",
   "author": "fengmk2",
   "license": "MIT"
 }
