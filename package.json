@@ -38,8 +38,7 @@
     "index.js"
   ],
   "ci": {
-    "version": "8, 10",
-    "license": true
+    "version": "8, 10"
   },
   "repository": {
     "type": "git",
